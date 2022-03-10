@@ -1,3 +1,3 @@
 fn main() {
-    SimpleGrep::run()
+    simple_grep::run();
 }
